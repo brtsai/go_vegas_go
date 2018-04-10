@@ -1,0 +1,8 @@
+Basically https://github.com/AndrewLien/Vegas_Events_API but in Golang
+
+API that scrapes https://electronic.vegas/vegas-edm-event-calendar/ and returns
+Vegas EDM events by dates specified in the request
+
+Additional features
+    Check twitter for profile picture if applicable?
+
