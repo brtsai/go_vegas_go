@@ -46,7 +46,6 @@ func main() {
     }
     
     plaintextBody := string(body)
-    var events []map[string]string
     
     for _, line := range strings.Split(plaintextBody, "\n") {
         l := log.New(os.Stderr, "", 0)
